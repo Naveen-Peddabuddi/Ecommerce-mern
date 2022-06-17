@@ -1,0 +1,60 @@
+#registerBox{
+    border: 1px solid transparent;
+    width: 100%;
+    height: 800px;
+    align-items: center;
+    margin-top: -2%;
+    /* background: url("https://images.unsplash.com/photo-1483985988355-763728e1935b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZmFzaGlvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60") center;
+    background-size: cover */
+    background: #ECE9E6;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FFFFFF, #ECE9E6);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FFFFFF, #ECE9E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+#registerBox>div{
+    /* border: 1px solid red; */
+    width: 500px;
+    height: 600px;
+    margin: auto;
+    margin-top: 50px;
+    padding-top: 20px;
+    margin-bottom: 40px;
+    padding-bottom: 10px;
+    border-radius: 6px ;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+#google{
+    width: 200px;
+    margin-top: 20px;
+}
+#loginHead{
+    font-size: 50px;
+    font-weight: 700;
+    margin-left: 120px;
+    padding-right: -50px;
+    /* border: 1px solid red; */
+    width: 250px;
+}
+
+.FontStyleNav{
+    font-family: 'Water Brush', cursive;
+    /* border: 2px solid red; */
+    font-size: 30px;
+    /* width: 100%;
+    height: 100%; */
+    font-size: larger;
+    
+  }
+
+.ButtonDiv{
+    background-color: crimson;
+    color: white;
+    font-size: 25px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+}
